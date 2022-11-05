@@ -20,3 +20,7 @@ console.log(vowels.length);
 // আবার veriable hishabe nite pari--
 var vowelsCount = vowels.length;
 console.log(vowelsCount);
+
+
+
+
