@@ -70,3 +70,17 @@ while (hundredLoop < 20000) {
 }
 
 
+// break condition ------
+var i = 0; while (i < 10) {
+    console.log(i);
+    i++;
+    if (i == 7)  
+    break; 
+
+}
+
+
+
+
+
+    
