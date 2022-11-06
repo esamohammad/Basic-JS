@@ -47,3 +47,37 @@ for (i = 0; i < numbers.length; i++) {
     }
     console.log(number);
 }
+
+
+
+
+
+
+// add a new data in an array ----
+
+var phone = ["apple", "oppo", "nokia", "htc"];
+
+phone[3] = "realme"
+
+console.log(phone[3]);
+
+console.log(phone);
+
+console.log(phone.indexOf("apple"));
+
+
+// check an element existing in the array----
+
+if (phone.indexOf("motorla") == -1) {
+    console.log("wow the motorla is not missing!!!")
+}
+
+if (phone.indexOf("motorla") != -1) {
+    console.log("opps the motorla is missing!!!")
+}
+
+
+
+
+
+
