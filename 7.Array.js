@@ -9,3 +9,41 @@
 var bdTeam = ["sakib", "musfik", "mashrafi", "taskin", "tamim"];
 var age = [30, 28, 33, 29, 35];
 
+
+
+
+
+
+
+var numbers = [12, 25, 24, 68, 46, 80, 102, 452, 540];
+
+for (i = 0; i < numbers.length; i++) {
+    var number = numbers[i];
+    console.log(number);
+}
+
+
+
+// abar shorto deya jay ---- instant break.
+
+var numbers = [12, 25, 24, 68, 46, 80, 102, 452, 540];
+for (i = 0; i < numbers.length; i++) {
+    var number = numbers[i];
+    console.log(number);
+    if (number > 400) {
+        break;
+    }
+}
+
+
+
+
+// continue condition -- check untile the last numbers.
+var numbers = [12, 25, 24, 68, 46, 80, 102, 452, 99];
+for (i = 0; i < numbers.length; i++) {
+    var number = numbers[i];
+    if (number > 100) {
+        continue;
+    }
+    console.log(number);
+}
