@@ -62,7 +62,7 @@ var money = 100; bringSingara(money); // ai vabeo call kora jay----
 // Function প্যারামিটার সহ-Return পাবো কিভাবে??
 
 // abar nicher moto
-jotil kora jay----hudai veriable niye falafali korse--
+// jotil kora jay----hudai veriable niye falafali korse--
 
 function bringSingara(taka) {
     console.log(taka);
