@@ -26,6 +26,17 @@ console.log(name);
 
 
 
+
+// 4. arrow function
+// function square(x) {
+//     return x * x;
+// }
+const square = x => x * x;
+console.log(square(9));
+
+
+
+
 //multiline function hole avabe korte hoy-----------------------
 //akhane retun dite hobe----- single line function a retun no used.
 const doMath = (x, y) => {
