@@ -1,3 +1,5 @@
+//array map-------------------
+
 const numbers = [4, 6, 8, 10];
 const output2 = [];
 
