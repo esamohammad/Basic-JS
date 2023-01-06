@@ -1,11 +1,12 @@
 // variable
 var deposit = 400;
-
+const cost = 1000;
+let ballPrice = 500;
 
 
 // condition
 if (deposit > 500) {
-
+console.log(go to school)
 }
 else if (deposit < 200) {
 
@@ -34,6 +35,7 @@ const numberCount = numbers.length;
 numbers.pop();
 numbers.push(111);
 numbers[2] = 555;
+
 
 
 // check whether 222 included in the array
