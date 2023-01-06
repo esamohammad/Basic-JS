@@ -10,7 +10,7 @@ var z = 1000;
 var m = 10000;
 
 
-var name = "akash"; //srting variable!
+var name = "akash"; //sring variable!
 
 var israining = true; //bulian variable! 
 
